@@ -1,0 +1,19 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn git and node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ompathak23/git-test.git"
+  },
+  "author": "Om Pathak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ompathak23/git-test/issues"
+  },
+  "homepage": "https://github.com/ompathak23/git-test#readme"
+}
